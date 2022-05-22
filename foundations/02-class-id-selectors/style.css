@@ -1,0 +1,20 @@
+/* styles page*/
+
+.odd {
+background: pink;
+color: black;
+font-family: verdana;
+}
+#second-line{
+color: blue;
+font-size: 36px;
+}
+#fourth-line{
+background: lightgreen;
+font-size 24px;
+font-weight: bold;
+color: black;
+}
+#third-line{
+font-size: 36px;
+}
