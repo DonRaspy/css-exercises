@@ -19,6 +19,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px;
 }
 
 input {
@@ -64,4 +65,5 @@ ul {
 .buttons{
   display:flex;
   justify-content: center;
+  gap: 8px;
 }
